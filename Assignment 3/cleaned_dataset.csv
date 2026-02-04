@@ -1,0 +1,17 @@
+text,label,clean_text,label_encoded
+I love machine learning and artificial intelligence,positive,love machine learning artificial intelligence,1
+This product is extremely bad and disappointing,negative,product extremely bad disappointing,0
+Natural language processing is very interesting,positive,natural language processing interesting,1
+I hate spam messages and fake calls,negative,hate spam message fake call,0
+Deep learning models perform well on large data,positive,deep learning model perform well large data,1
+The service quality was terrible and slow,negative,service quality terrible slow,0
+AI is transforming healthcare and education,positive,ai transforming healthcare education,1
+This app crashes frequently and is useless,negative,app crash frequently useless,0
+Data science is an exciting career option,positive,data science exciting career option,1
+The customer support experience was awful,negative,customer support experience awful,0
+Machine learning improves decision making,positive,machine learning improves decision making,1
+The software has too many bugs,negative,software many bug,0
+Artificial intelligence helps solve complex problems,positive,artificial intelligence help solve complex problem,1
+I am unhappy with the poor performance,negative,unhappy poor performance,0
+Technology advancements are beneficial to society,positive,technology advancement beneficial society,1
+The interface design is confusing and frustrating,negative,interface design confusing frustrating,0
